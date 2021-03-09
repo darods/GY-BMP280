@@ -6,4 +6,4 @@ Eagle designs. If you like it give it a star :).
 
 **WARNING**: This schematic has not been use for real world PCBs, so
 please check that the dimensions are correct. I'm not responsabible
-for any problem related for bad use of this librarie. 
+for any problem related for bad use of this library. 
